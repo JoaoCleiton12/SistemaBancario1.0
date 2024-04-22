@@ -1,4 +1,5 @@
 Projeto prático 1
+============
 
 O objetivo do projeto é o desenvolvimento/otimização de um sistema que utilize o esquema de
 criptografia híbrida, garantindo confidencialidade, integridade, autenticidade e irretratabilidade das
